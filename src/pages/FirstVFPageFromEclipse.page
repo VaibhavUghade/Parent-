@@ -1,6 +1,6 @@
 <apex:page >
 <!-- Begin Default Content REMOVE THIS -->
-<h1>Congratulations This is First Visula Force page from Eclipse</h1>
-This is your new Page
+<h1>Congratulations This is First Visual Force page from Eclipse</h1>
+This is pge is from child Branch
 <!-- End Default Content REMOVE THIS -->
 </apex:page>

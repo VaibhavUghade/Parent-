@@ -3,7 +3,7 @@ public class MyApexClassFromEclipse {       //Class definition and body
    public static String myString = ''; //Class Member variable
    
    public static Integer getCalculatedEclipseValue () {
-   
+   //This is from Child Branch
       myValue = myValue+122;
       return myValue;
    }
